@@ -11,6 +11,8 @@ This solution uses ASP.Net Core 3.1 and MongoDB
 
 # Open Startup Code Repo
 
+# Install MongoDB.Driver from nuget
+
 # Add MongoDB Service
 - Go to Services Folder
 - Add new class "ProductMongoDBService.cs" 
